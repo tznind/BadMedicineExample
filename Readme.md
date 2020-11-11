@@ -12,6 +12,9 @@
  dotnet add package HIC.BadMedicine
  ```
  
+ Set [Program.cs to the following c# code](./Program.cs)
+ 
+ 
 Build with:
  
 ```
