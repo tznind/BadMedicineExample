@@ -29,11 +29,11 @@ dotnet run
 When run a new file out.xml should be generated e.g.
  
  ```xml
- <Record>
+<Record>
 <Date>27/02/1994 00:17:16</Date>
 <SampleType>Blood</SampleType>
 <TestCode>eCOM</TestCode>
-<Result>Blood</Result>
+<Result>2.844910431524836</Result>
 <Identifier>CC319477</Identifier>
 <ReadCode>451E.</ReadCode>
 </Record>
